@@ -18,6 +18,26 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [depoy2](https://user-images.githubusercontent.com/65075408/111460915-927a1e00-8742-11eb-95ef-6a317c349c6f.PNG)
 
 
@@ -25,5 +45,28 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 RESULT
+
+
+
 ![result dep](https://user-images.githubusercontent.com/65075408/111461223-f1d82e00-8742-11eb-94c8-69563f2699ba.PNG)
