@@ -57,16 +57,29 @@
 
 
 
-
-
-
-
-
-
-
-
 RESULT
 
 
 
 ![result dep](https://user-images.githubusercontent.com/65075408/111461223-f1d82e00-8742-11eb-94c8-69563f2699ba.PNG)
+
+
+
+
+
+
+
+
+
+
+
+FLOW OF THIS PROJECT:
+There are unnecessary files like procfile,requirement.txt , I just stored them incase if I had to make a permanent website with flask or something else
+So The Project Flow is
+  1) In AQI prediction.ipynb file, first two cells consists of Web Scraping. I collect the data from the https://en.tutiempo.net/climate/ws-431280.html from 2013 to 2018 using requests module And in the Third cell,you will get a file in your colab documents.
+  2) 
+  3) Real combine.csv is the file which will be obtained. 
+  4) Then I did analysis on the obtained data from 2013 to 2018 of Hyderabad City.
+  5) Used 6 Regression algorithms in ordered to find best algorithm for the prediction. 
+  6) Random forest Regression got less MSE(Mean Squared Error)
+  7) After that in Deployment.ipynb , Deploy the model.
