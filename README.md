@@ -1,4 +1,4 @@
-# AQI-prediction-and-deployment
+# AQI-prediction-and-deployment of Hyderabad
  While I was doing this project, I did'nt know know how to deploy. When I watched few youtube videos regarding flask, they were all done with IDE environment. 
  As I don't like to use Anaconda, I decided to deploy model in Google Colab. I just love using colab as it makes everything feasible. 
  Finally after many searches for the techniques, with which we can create website, I came across Streamlit library . It made my work simple.
